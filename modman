@@ -1,0 +1,14 @@
+app/code/local/Hostedpci app/code/local/Hostedpci
+
+app/design/adminhtml/default/default/layout/hpci.xml app/design/adminhtml/default/default/layout/hpci.xml
+app/design/adminhtml/default/default/template/hpci app/design/adminhtml/default/default/template/hpci
+
+app/design/frontend/base/default/layout/hpci.xml app/design/frontend/base/default/layout/hpci.xml
+app/design/frontend/base/default/template/hpci app/design/frontend/base/default/template/hpci
+
+app/etc/modules/Hostedpci_Hpci.xml app/etc/modules/Hostedpci_Hpci.xml
+
+skin/frontend/base/default/js/hpci
+skin/adminhtml/base/default/js/hpci
+
+lib/Varien/Data/Form/Element/Version.php lib/Varien/Data/Form/Element/Version.php
